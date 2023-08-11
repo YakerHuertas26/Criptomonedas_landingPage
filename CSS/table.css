@@ -1,0 +1,12 @@
+.header__content .header__link{
+    bottom: -20px;
+}
+
+.secttion5{
+    max-width: 630px;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+}
